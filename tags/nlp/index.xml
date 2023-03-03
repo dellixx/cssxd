@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Hugo tranquilpeak theme</title>
+    <link>https://example.org/tags/nlp/</link>
+    <description>Recent content in NLP on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boosting the Transformer with the BERT Supervision in Low-Resource Machine Translation</title>
+      <link>https://example.org/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuatSE-Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings</title>
+      <link>https://example.org/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
+      <description>Jiang Li, Xiangdong Su*, Xinlan Ma, and Guanglai Gao
+ ABSTRACT Knowledge graph embedding aims to learn representations of entities and relations in a knowledge graph. Recently, QuatE has introduced the graph embeddings into the quaternion space. However, there are still challenges in dealing with complex patterns, including 1-N, N-1, and multiple-relations between two entities. Since the learned entity embeddings tend to overlap with each other in the first two cases, and the learned relation embeddings tend to overlap with each other in the last case.</description>
+    </item>
+    
+    <item>
+      <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition 🔥</title>
+      <link>https://example.org/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Inner-word and Out-word Features for Mongolian Morphological Segmentation</title>
+      <link>https://example.org/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural Scene Text Extraction Approach Based on Generative Adversarial Learning</title>
+      <link>https://example.org/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Knowledge Guided Mongolian Constituent Parsing</title>
+      <link>https://example.org/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

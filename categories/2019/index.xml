@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Hugo tranquilpeak theme</title>
+    <link>https://example.org/categories/2019/</link>
+    <description>Recent content in 2019 on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2019 10:45:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Natural Scene Text Extraction Approach Based on Generative Adversarial Learning</title>
+      <link>https://example.org/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR Condition</title>
+      <link>https://example.org/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
+      <link>https://example.org/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning an Adversarial Network for Speech Enhancement Under Extremely Low Signal-to-Noise Ratio Condition</title>
+      <link>https://example.org/2019/10/learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Knowledge Guided Mongolian Constituent Parsing</title>
+      <link>https://example.org/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNetGAN-A Robust Speech Enhancement Approach in Time Domain for Extremely Low Signal-to-noise Ratio Condition 🔥</title>
+      <link>https://example.org/2019/10/unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

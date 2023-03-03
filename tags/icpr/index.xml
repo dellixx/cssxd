@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICPR on Hugo tranquilpeak theme</title>
+    <link>https://example.org/tags/icpr/</link>
+    <description>Recent content in ICPR on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/icpr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Transformer-based Medical Visual Question Answering Model</title>
+      <link>https://example.org/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
+      <description>Lei Liu, Xiangdong Su*, Hui Guo and Daobin Zhu
+ ABSTRACT While the Transformer architecture has been widely used in natural language processing tasks and computer vision tasks, its application in medical visual question answering is still limited. Most current methods rely on an image extractor to obtain visual features and a text extractor to capture semantic features, and then a fusion module to merge the information from the two modalities to predict the final result.</description>
+    </item>
+    
+  </channel>
+</rss>
