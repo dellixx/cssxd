@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo tranquilpeak theme</title>
+    <title>内蒙古大学机器学习小组 苏向东</title>
     <link>https://imu-ai.com/posts/</link>
-    <description>Recent content on Hugo tranquilpeak theme</description>
+    <description>Recent content on 内蒙古大学机器学习小组 苏向东</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imu-ai.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to IMU-AI</title>
+      <title>Welcome to IMU-AI </title>
       <link>https://imu-ai.com/2023/01/welcome-to-imu-ai/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
