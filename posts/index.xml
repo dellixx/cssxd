@@ -2,218 +2,218 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo tranquilpeak theme</title>
-    <link>https://www.imu-ai.com/posts/</link>
+    <link>https://imu-ai.com/posts/</link>
     <description>Recent content on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imu-ai.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to IMU-AI</title>
-      <link>https://www.imu-ai.com/2023/01/welcome-to-imu-ai/</link>
+      <link>https://imu-ai.com/2023/01/welcome-to-imu-ai/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2023/01/welcome-to-imu-ai/</guid>
+      <guid>https://imu-ai.com/2023/01/welcome-to-imu-ai/</guid>
       <description>想和我们共同探索人工智能的世界吗？ 想让世界看得你的光芒吗？ 加入我们，在这里不仅是学习与工作，投入你的时间和热情，滴滴汗水终会汇聚成不平凡的成果。 期待你的加入
 每年预计招收学术型硕士研究生3名和专业学位硕士研究生3名，欢迎对人工智能、机器学习、自然语言处理（智能对话、问答系统、自动写作、知识图谱、信息检索、推荐系统）、图像处理（图像去噪、图像超分、图像修复、图像分割、文字识别、文字检测）、语音信号处理（语音识别、语音转换、语音分离、端点检测、语音唤醒、说话人识别、语种识别）、数据挖掘（商品数据、金融数据、民生数据）、社会关系分析（微博、博客）等方向感兴趣的同学报考。</description>
     </item>
     
     <item>
       <title>A Transformer-based Medical Visual Question Answering Model</title>
-      <link>https://www.imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
+      <link>https://imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
+      <guid>https://imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
       <description>Lei Liu, Xiangdong Su*, Hui Guo and Daobin Zhu
  ABSTRACT While the Transformer architecture has been widely used in natural language processing tasks and computer vision tasks, its application in medical visual question answering is still limited. Most current methods rely on an image extractor to obtain visual features and a text extractor to capture semantic features, and then a fusion module to merge the information from the two modalities to predict the final result.</description>
     </item>
     
     <item>
       <title>Boosting the Transformer with the BERT Supervision in Low-Resource Machine Translation</title>
-      <link>https://www.imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
+      <link>https://imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
+      <guid>https://imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Well Apply Multimodal Mixup and Simple MLPs Backbone to Medical Visual Question Answering?</title>
-      <link>https://www.imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
+      <link>https://imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
+      <guid>https://imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Visual Question Answering via Targeted Choice Contrast and Multimodal Entity Matching</title>
-      <link>https://www.imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
+      <link>https://imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
+      <guid>https://imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuatSE-Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings</title>
-      <link>https://www.imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
+      <link>https://imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
+      <guid>https://imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
       <description>Jiang Li, Xiangdong Su*, Xinlan Ma, and Guanglai Gao
  ABSTRACT Knowledge graph embedding aims to learn representations of entities and relations in a knowledge graph. Recently, QuatE has introduced the graph embeddings into the quaternion space. However, there are still challenges in dealing with complex patterns, including 1-N, N-1, and multiple-relations between two entities. Since the learned entity embeddings tend to overlap with each other in the first two cases, and the learned relation embeddings tend to overlap with each other in the last case.</description>
     </item>
     
     <item>
       <title>Script-Level Word Sample Augmentation for Few-shot Handwritten Text Recognition</title>
-      <link>https://www.imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
+      <link>https://imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
+      <guid>https://imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition</title>
-      <link>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <link>https://imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <guid>https://imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition 🔥</title>
-      <link>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <link>https://imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <guid>https://imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FULLSUBNET A FULL-BAND AND SUB-BAND FUSION MODEL FOR REAL-TIME SINGLE-CHANNEL SPEECH ENHANCEMENT 🔥</title>
-      <link>https://www.imu-ai.com/2021/10/fullsubnet-a-full-band-and-sub-band-fusion-model-for-real-time-single-channel-speech-enhancement/</link>
+      <link>https://imu-ai.com/2021/10/fullsubnet-a-full-band-and-sub-band-fusion-model-for-real-time-single-channel-speech-enhancement/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2021/10/fullsubnet-a-full-band-and-sub-band-fusion-model-for-real-time-single-channel-speech-enhancement/</guid>
+      <guid>https://imu-ai.com/2021/10/fullsubnet-a-full-band-and-sub-band-fusion-model-for-real-time-single-channel-speech-enhancement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCDALNet Multi-scale Contextual Dual Attention Learning Network for Medical Image Segmentation</title>
-      <link>https://www.imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
+      <link>https://imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
+      <guid>https://imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A MULTI-SCALED RECEPTIVE FIELD LEARNING APPROACH FOR MEDICAL IMAGE SEGMENTATION</title>
-      <link>https://www.imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
+      <link>https://imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
+      <guid>https://imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AN EDGE INFORMATION AND MASK SHRINKING BASED IMAGE INPAINTING APPROACH</title>
-      <link>https://www.imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</link>
+      <link>https://imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</guid>
+      <guid>https://imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incorporating Inner-word and Out-word Features for Mongolian Morphological Segmentation</title>
-      <link>https://www.imu-ai.com/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
+      <link>https://imu-ai.com/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
+      <guid>https://imu-ai.com/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MASKING AND INPAINTING A TWO-STAGE SPEECH ENHANCEMENT APPROACH FOR LOW SNR AND NON-STATIONARY NOISE 🔥</title>
-      <link>https://www.imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
+      <link>https://imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
+      <guid>https://imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNR-BASED TEACHERS-STUDENT TECHNIQUE FOR SPEECH ENHANCEMENT</title>
-      <link>https://www.imu-ai.com/2020/10/snr-based-teachers-student-technique-for-speech-enhancement/</link>
+      <link>https://imu-ai.com/2020/10/snr-based-teachers-student-technique-for-speech-enhancement/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/snr-based-teachers-student-technique-for-speech-enhancement/</guid>
+      <guid>https://imu-ai.com/2020/10/snr-based-teachers-student-technique-for-speech-enhancement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sub-band Knowledge Distillation Framework for Speech Enhancement</title>
-      <link>https://www.imu-ai.com/2020/10/sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
+      <link>https://imu-ai.com/2020/10/sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
+      <guid>https://imu-ai.com/2020/10/sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Natural Scene Text Extraction Approach Based on Generative Adversarial Learning</title>
-      <link>https://www.imu-ai.com/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
+      <link>https://imu-ai.com/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
+      <guid>https://imu-ai.com/2019/10/a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR Condition</title>
-      <link>https://www.imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</link>
+      <link>https://imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</guid>
+      <guid>https://imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
-      <link>https://www.imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <link>https://imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <guid>https://imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning an Adversarial Network for Speech Enhancement Under Extremely Low Signal-to-Noise Ratio Condition</title>
-      <link>https://www.imu-ai.com/2019/10/learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</link>
+      <link>https://imu-ai.com/2019/10/learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <guid>https://imu-ai.com/2019/10/learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Knowledge Guided Mongolian Constituent Parsing</title>
-      <link>https://www.imu-ai.com/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</link>
+      <link>https://imu-ai.com/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
+      <guid>https://imu-ai.com/2019/10/morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UNetGAN-A Robust Speech Enhancement Approach in Time Domain for Extremely Low Signal-to-noise Ratio Condition 🔥</title>
-      <link>https://www.imu-ai.com/2019/10/unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
+      <link>https://imu-ai.com/2019/10/unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <guid>https://imu-ai.com/2019/10/unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
       <description></description>
     </item>
     

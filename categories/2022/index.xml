@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022 on Hugo tranquilpeak theme</title>
-    <link>https://www.imu-ai.com/categories/2022/</link>
+    <link>https://imu-ai.com/categories/2022/</link>
     <description>Recent content in 2022 on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/categories/2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://imu-ai.com/categories/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Transformer-based Medical Visual Question Answering Model</title>
-      <link>https://www.imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
+      <link>https://imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
+      <guid>https://imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
       <description>Lei Liu, Xiangdong Su*, Hui Guo and Daobin Zhu
  ABSTRACT While the Transformer architecture has been widely used in natural language processing tasks and computer vision tasks, its application in medical visual question answering is still limited. Most current methods rely on an image extractor to obtain visual features and a text extractor to capture semantic features, and then a fusion module to merge the information from the two modalities to predict the final result.</description>
     </item>
     
     <item>
       <title>Boosting the Transformer with the BERT Supervision in Low-Resource Machine Translation</title>
-      <link>https://www.imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
+      <link>https://imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
+      <guid>https://imu-ai.com/2022/10/boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Visual Question Answering via Targeted Choice Contrast and Multimodal Entity Matching</title>
-      <link>https://www.imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
+      <link>https://imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
+      <guid>https://imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuatSE-Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings</title>
-      <link>https://www.imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
+      <link>https://imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
+      <guid>https://imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
       <description>Jiang Li, Xiangdong Su*, Xinlan Ma, and Guanglai Gao
  ABSTRACT Knowledge graph embedding aims to learn representations of entities and relations in a knowledge graph. Recently, QuatE has introduced the graph embeddings into the quaternion space. However, there are still challenges in dealing with complex patterns, including 1-N, N-1, and multiple-relations between two entities. Since the learned entity embeddings tend to overlap with each other in the first two cases, and the learned relation embeddings tend to overlap with each other in the last case.</description>
     </item>
     
     <item>
       <title>Script-Level Word Sample Augmentation for Few-shot Handwritten Text Recognition</title>
-      <link>https://www.imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
+      <link>https://imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
+      <guid>https://imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
       <description></description>
     </item>
     

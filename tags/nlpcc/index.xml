@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLPCC on Hugo tranquilpeak theme</title>
-    <link>https://www.imu-ai.com/tags/nlpcc/</link>
+    <link>https://imu-ai.com/tags/nlpcc/</link>
     <description>Recent content in NLPCC on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/tags/nlpcc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://imu-ai.com/tags/nlpcc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QuatSE-Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings</title>
-      <link>https://www.imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
+      <link>https://imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
+      <guid>https://imu-ai.com/2022/10/quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
       <description>Jiang Li, Xiangdong Su*, Xinlan Ma, and Guanglai Gao
  ABSTRACT Knowledge graph embedding aims to learn representations of entities and relations in a knowledge graph. Recently, QuatE has introduced the graph embeddings into the quaternion space. However, there are still challenges in dealing with complex patterns, including 1-N, N-1, and multiple-relations between two entities. Since the learned entity embeddings tend to overlap with each other in the first two cases, and the learned relation embeddings tend to overlap with each other in the last case.</description>
     </item>

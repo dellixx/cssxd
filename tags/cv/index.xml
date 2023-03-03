@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on Hugo tranquilpeak theme</title>
-    <link>https://www.imu-ai.com/tags/cv/</link>
+    <link>https://imu-ai.com/tags/cv/</link>
     <description>Recent content in CV on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://imu-ai.com/tags/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Transformer-based Medical Visual Question Answering Model</title>
-      <link>https://www.imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
+      <link>https://imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
+      <guid>https://imu-ai.com/2022/10/a-transformer-based-medical-visual-question-answering-model/</guid>
       <description>Lei Liu, Xiangdong Su*, Hui Guo and Daobin Zhu
  ABSTRACT While the Transformer architecture has been widely used in natural language processing tasks and computer vision tasks, its application in medical visual question answering is still limited. Most current methods rely on an image extractor to obtain visual features and a text extractor to capture semantic features, and then a fusion module to merge the information from the two modalities to predict the final result.</description>
     </item>
     
     <item>
       <title>How Well Apply Multimodal Mixup and Simple MLPs Backbone to Medical Visual Question Answering?</title>
-      <link>https://www.imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
+      <link>https://imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
+      <guid>https://imu-ai.com/2022/10/how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Visual Question Answering via Targeted Choice Contrast and Multimodal Entity Matching</title>
-      <link>https://www.imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
+      <link>https://imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
+      <guid>https://imu-ai.com/2022/10/medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Script-Level Word Sample Augmentation for Few-shot Handwritten Text Recognition</title>
-      <link>https://www.imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
+      <link>https://imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
+      <guid>https://imu-ai.com/2022/10/script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition</title>
-      <link>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <link>https://imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <guid>https://imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCDALNet Multi-scale Contextual Dual Attention Learning Network for Medical Image Segmentation</title>
-      <link>https://www.imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
+      <link>https://imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
+      <guid>https://imu-ai.com/2021/10/mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A MULTI-SCALED RECEPTIVE FIELD LEARNING APPROACH FOR MEDICAL IMAGE SEGMENTATION</title>
-      <link>https://www.imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
+      <link>https://imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
+      <guid>https://imu-ai.com/2020/10/a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AN EDGE INFORMATION AND MASK SHRINKING BASED IMAGE INPAINTING APPROACH</title>
-      <link>https://www.imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</link>
+      <link>https://imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</guid>
+      <guid>https://imu-ai.com/2020/10/an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MASKING AND INPAINTING A TWO-STAGE SPEECH ENHANCEMENT APPROACH FOR LOW SNR AND NON-STATIONARY NOISE 🔥</title>
-      <link>https://www.imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
+      <link>https://imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
+      <guid>https://imu-ai.com/2020/10/masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR Condition</title>
-      <link>https://www.imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</link>
+      <link>https://imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</guid>
+      <guid>https://imu-ai.com/2019/10/an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
-      <link>https://www.imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <link>https://imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <guid>https://imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
       <description></description>
     </item>
     
