@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COLING on Hugo tranquilpeak theme</title>
-    <link>https://example.org/tags/coling/</link>
+    <link>https://www.imu-ai.com/tags/coling/</link>
     <description>Recent content in COLING on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 10:45:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/coling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 10:45:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/tags/coling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Incorporating Inner-word and Out-word Features for Mongolian Morphological Segmentation</title>
-      <link>https://example.org/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
+      <link>https://www.imu-ai.com/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
+      <guid>https://www.imu-ai.com/2020/10/incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
       <description></description>
     </item>
     

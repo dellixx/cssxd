@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/</link>
+    <link>https://www.imu-ai.com/categories/</link>
     <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>https://example.org/categories/news/</link>
+      <link>https://www.imu-ai.com/categories/news/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/news/</guid>
+      <guid>https://www.imu-ai.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021</title>
-      <link>https://example.org/categories/2021/</link>
+      <link>https://www.imu-ai.com/categories/2021/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/2021/</guid>
+      <guid>https://www.imu-ai.com/categories/2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2022</title>
-      <link>https://example.org/categories/2022/</link>
+      <link>https://www.imu-ai.com/categories/2022/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/2022/</guid>
+      <guid>https://www.imu-ai.com/categories/2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BIBM</title>
-      <link>https://example.org/categories/bibm/</link>
+      <link>https://www.imu-ai.com/categories/bibm/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/bibm/</guid>
+      <guid>https://www.imu-ai.com/categories/bibm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CCF-B</title>
-      <link>https://example.org/categories/ccf-b/</link>
+      <link>https://www.imu-ai.com/categories/ccf-b/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/ccf-b/</guid>
+      <guid>https://www.imu-ai.com/categories/ccf-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CCF-C</title>
-      <link>https://example.org/categories/ccf-c/</link>
+      <link>https://www.imu-ai.com/categories/ccf-c/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/ccf-c/</guid>
+      <guid>https://www.imu-ai.com/categories/ccf-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICFHR</title>
-      <link>https://example.org/categories/icfhr/</link>
+      <link>https://www.imu-ai.com/categories/icfhr/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/icfhr/</guid>
+      <guid>https://www.imu-ai.com/categories/icfhr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICONIP</title>
-      <link>https://example.org/categories/iconip/</link>
+      <link>https://www.imu-ai.com/categories/iconip/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/iconip/</guid>
+      <guid>https://www.imu-ai.com/categories/iconip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICPR</title>
-      <link>https://example.org/categories/icpr/</link>
+      <link>https://www.imu-ai.com/categories/icpr/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/icpr/</guid>
+      <guid>https://www.imu-ai.com/categories/icpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MDPI</title>
-      <link>https://example.org/categories/mdpi/</link>
+      <link>https://www.imu-ai.com/categories/mdpi/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/mdpi/</guid>
+      <guid>https://www.imu-ai.com/categories/mdpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLPCC</title>
-      <link>https://example.org/categories/nlpcc/</link>
+      <link>https://www.imu-ai.com/categories/nlpcc/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/nlpcc/</guid>
+      <guid>https://www.imu-ai.com/categories/nlpcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SCI-3</title>
-      <link>https://example.org/categories/sci-3/</link>
+      <link>https://www.imu-ai.com/categories/sci-3/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/sci-3/</guid>
+      <guid>https://www.imu-ai.com/categories/sci-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BMC-BIDM</title>
-      <link>https://example.org/categories/bmc-bidm/</link>
+      <link>https://www.imu-ai.com/categories/bmc-bidm/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/bmc-bidm/</guid>
+      <guid>https://www.imu-ai.com/categories/bmc-bidm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICASSP</title>
-      <link>https://example.org/categories/icassp/</link>
+      <link>https://www.imu-ai.com/categories/icassp/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/icassp/</guid>
+      <guid>https://www.imu-ai.com/categories/icassp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICDAR</title>
-      <link>https://example.org/categories/icdar/</link>
+      <link>https://www.imu-ai.com/categories/icdar/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/icdar/</guid>
+      <guid>https://www.imu-ai.com/categories/icdar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IJCNN</title>
-      <link>https://example.org/categories/ijcnn/</link>
+      <link>https://www.imu-ai.com/categories/ijcnn/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/ijcnn/</guid>
+      <guid>https://www.imu-ai.com/categories/ijcnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020</title>
-      <link>https://example.org/categories/2020/</link>
+      <link>https://www.imu-ai.com/categories/2020/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/2020/</guid>
+      <guid>https://www.imu-ai.com/categories/2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COLING</title>
-      <link>https://example.org/categories/coling/</link>
+      <link>https://www.imu-ai.com/categories/coling/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/coling/</guid>
+      <guid>https://www.imu-ai.com/categories/coling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICME</title>
-      <link>https://example.org/categories/icme/</link>
+      <link>https://www.imu-ai.com/categories/icme/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/icme/</guid>
+      <guid>https://www.imu-ai.com/categories/icme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interspeech</title>
-      <link>https://example.org/categories/interspeech/</link>
+      <link>https://www.imu-ai.com/categories/interspeech/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/interspeech/</guid>
+      <guid>https://www.imu-ai.com/categories/interspeech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2019</title>
-      <link>https://example.org/categories/2019/</link>
+      <link>https://www.imu-ai.com/categories/2019/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/2019/</guid>
+      <guid>https://www.imu-ai.com/categories/2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PRICAI</title>
-      <link>https://example.org/categories/pricai/</link>
+      <link>https://www.imu-ai.com/categories/pricai/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/pricai/</guid>
+      <guid>https://www.imu-ai.com/categories/pricai/</guid>
       <description></description>
     </item>
     

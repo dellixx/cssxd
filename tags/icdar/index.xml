@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICDAR on Hugo tranquilpeak theme</title>
-    <link>https://example.org/tags/icdar/</link>
+    <link>https://www.imu-ai.com/tags/icdar/</link>
     <description>Recent content in ICDAR on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Oct 2021 10:45:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/icdar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 10:45:00 +0000</lastBuildDate><atom:link href="https://www.imu-ai.com/tags/icdar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition</title>
-      <link>https://example.org/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <link>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <guid>https://www.imu-ai.com/2021/10/an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
-      <link>https://example.org/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <link>https://www.imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://example.org/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <guid>https://www.imu-ai.com/2019/10/improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
       <description></description>
     </item>
     
